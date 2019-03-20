@@ -3,7 +3,7 @@
   public class VectorExample{
       public static void main(String[] args) {
           // declare vector intial size 2
-          Vector<String> vec =new Vector<String>();
+          Vector<String> vec =new Vector<String>(2);
           vec.addElement("soni");
           vec.addElement("moni");
           vec.addElement("sanjeet");

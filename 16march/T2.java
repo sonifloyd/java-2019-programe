@@ -23,6 +23,6 @@ public class T2{
         System.out.println("change word :"+cg);
         String nstr=str.replaceAll(re,cg);
         
-        System.out.println(" New string "+ nstr);
+        System.out.println(" New string : "+ nstr);
     }
 }
